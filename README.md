@@ -1,2 +1,2 @@
-Tip calculator made using javascript
-HEll0 I am Noob!
+Tip calculator made using JavaScript
+HEllO I am Noob!
